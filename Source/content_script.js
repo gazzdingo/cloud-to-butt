@@ -31,8 +31,8 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe\b/g, "the butt and the");
-	v = v.replace(/\bthe\b/g, "the butt and the");
+	v = v.replace(/\bThe\b/g, "the penis and the");
+	v = v.replace(/\bthe\b/g, "the penis and the");
 
 	textNode.nodeValue = v;
 }
